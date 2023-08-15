@@ -1,4 +1,4 @@
-package com.example.voteapp
+package net.covenantcloud.electo
 
 import io.flutter.embedding.android.FlutterActivity
 
